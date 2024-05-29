@@ -4,6 +4,8 @@ The past several years has marked the steady rise of large language models (LLMs
 
 We have also expanded our research interests to the field of LLMs. Here are some research papers related to LLMs. We highly recommend beginners to read and thoroughly understand these papers.
 
+:smile: **We welcome and value any contributions.**
+
 ## Basic Architectures of LLMs
 
 | Title                                                        | Link                                                         |
@@ -17,7 +19,15 @@ We have also expanded our research interests to the field of LLMs. Here are some
 | GPT3.5: Fine-Tuning Language Models from Human Preferences   | [[paper]](https://arxiv.org/abs/1909.08593)                  |
 | LLaMA: Open and Efficient Foundation Language Models         | [[paper]](http://arxiv.org/abs/2302.13971)                   |
 | Llama 2: Open Foundation and Fine-Tuned Chat Models          | [[paper]](http://arxiv.org/abs/2307.09288)                   |
+
+
+### Multimodal Large Language Models
+
+| Title                                                        | Link                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Efficient Multimodal Large Language Models: A Survey           | [[paper]](http://arxiv.org/abs/2405.10739)                   |
 | CLIP: Learning Transferable Visual Models From Natural Language Supervision | [[paper]](https://arxiv.org/abs/2103.00020)                  |
+
 
 ## Parallelism Training System
 
@@ -48,10 +58,12 @@ We have also expanded our research interests to the field of LLMs. Here are some
 | DeepSpeed-Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale | [[paper]](https://arxiv.org/abs/2207.00032)                  |
 | Orca: A Distributed Serving System for Transformer-Based Generative Models | [[paper]](https://www.usenix.org/conference/osdi22/presentation/yu) |
 | FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU | [[paper]](http://arxiv.org/abs/2303.06865)                   |
+| S$^{3}$: Increasing GPU Utilization during Generative Inference for Higher Throughput | [[paper]](http://arxiv.org/abs/2306.06000)                   |
 | Splitwise: Efficient generative LLM inference using phase splitting | [[paper]](http://arxiv.org/abs/2311.18677)                   |
 | SpecInfer: Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification | [[paper]](https://arxiv.org/abs/2305.09781)                  |
 | PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | [[paper]](http://arxiv.org/abs/2312.12456)                   |
 | DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving | [[paper]](http://arxiv.org/abs/2401.09670)                   |
+| LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism | [[paper]](http://arxiv.org/abs/2404.09526)                   |
 | AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving | [[paper]](http://arxiv.org/abs/2302.11665)                   |
 
 ## Parameter-Efficient Fine-Tuning
