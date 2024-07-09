@@ -64,6 +64,8 @@ We have also expanded our research interests to the field of LLMs. Here are some
 | PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU | [[paper]](http://arxiv.org/abs/2312.12456)                   |
 | DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving | [[paper]](http://arxiv.org/abs/2401.09670)                   |
 | LoongServe: Efficiently Serving Long-context Large Language Models with Elastic Sequence Parallelism | [[paper]](http://arxiv.org/abs/2404.09526)                   |
+| Vidur: A Large-Scale Simulation Framework For LLM Inference | [[paper]](http://arxiv.org/abs/2405.05465)                   |
+| Lean Attention: Hardware-Aware Scalable Attention Mechanism for the Decode-Phase of Transformers | [[paper]](http://arxiv.org/abs/2405.10480)                   |
 | AlpaServe: Statistical Multiplexing with Model Parallelism for Deep Learning Serving | [[paper]](http://arxiv.org/abs/2302.11665)                   |
 
 ## Parameter-Efficient Fine-Tuning
@@ -79,3 +81,4 @@ We have also expanded our research interests to the field of LLMs. Here are some
 | PetS: A Unified Framework for Parameter-Efficient Transformers Serving | [[paper]](https://www.usenix.org/conference/atc22/presentation/zhou-zhe) |
 | Punica: Multi-Tenant LoRA Serving                            | [[paper]](http://arxiv.org/abs/2310.18547)                   |
 | S-LoRA: Serving Thousands of Concurrent LoRA Adapters        | [[paper]](http://arxiv.org/abs/2311.03285)                   |
+
