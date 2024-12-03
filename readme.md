@@ -107,13 +107,13 @@ I will conduct actual categorization in the future.
 
 ## Compression (Quantization, Sparsity)
 
-| Title                                                        | Link                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale | [[paper]](http://arxiv.org/abs/2208.07339)                   |
-| GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | [[paper]](https://arxiv.org/abs/2210.17323)                  |
-| AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration | [[paper]](http://arxiv.org/abs/2306.00978)                   |
-| QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving | [[paper]](http://arxiv.org/abs/2405.04532)                   |
-| Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time | [[paper]]([[2310.17157\] Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://arxiv.org/abs/2310.17157)) |
-| Atom: Low-bit Quantization for Efficient and Accurate LLM Serving | [[paper]](http://arxiv.org/abs/2310.19102)                   |
-| QLoRA: Efficient Finetuning of Quantized LLMs                | [[paper]](http://arxiv.org/abs/2305.14314)                   |
+| Title                                                        | Link                                        |
+| ------------------------------------------------------------ | ------------------------------------------- |
+| LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale | [[paper]](http://arxiv.org/abs/2208.07339)  |
+| GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | [[paper]](https://arxiv.org/abs/2210.17323) |
+| AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration | [[paper]](http://arxiv.org/abs/2306.00978)  |
+| QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving | [[paper]](http://arxiv.org/abs/2405.04532)  |
+| Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time | [[paper]](https://arxiv.org/abs/2310.17157) |
+| Atom: Low-bit Quantization for Efficient and Accurate LLM Serving | [[paper]](http://arxiv.org/abs/2310.19102)  |
+| QLoRA: Efficient Finetuning of Quantized LLMs                | [[paper]](http://arxiv.org/abs/2305.14314)  |
 
