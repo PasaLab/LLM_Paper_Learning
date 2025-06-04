@@ -117,3 +117,6 @@ I will conduct actual categorization in the future.
 | Atom: Low-bit Quantization for Efficient and Accurate LLM Serving | [[paper]](http://arxiv.org/abs/2310.19102)  |
 | QLoRA: Efficient Finetuning of Quantized LLMs                | [[paper]](http://arxiv.org/abs/2305.14314)  |
 
+## Mixture-of-experts (MoE) Related Optimization
+
+Please refer to this [link](./moe_related.md) for MoE inference optimization.
