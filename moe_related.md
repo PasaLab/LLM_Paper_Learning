@@ -35,3 +35,4 @@
 | MegaScale-Infer: Serving Mixture-of-Experts at Scale with Disaggregated Expert Parallelism | [[paper]](https://arxiv.org/abs/2504.02263)                  |
 | D$^2$MoE: Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving | [[paper]](http://arxiv.org/abs/2504.15299)                   |
 | Faster MoE LLM Inference for Extremely Large Models          | [[paper]](http://arxiv.org/abs/2505.03531)                   |
+| Toward Cost-Efficient Serving of Mixture-of-Experts with Asynchrony | [[paper]](http://arxiv.org/abs/2505.08944)                   |
