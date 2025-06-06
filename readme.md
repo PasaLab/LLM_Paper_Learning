@@ -19,14 +19,17 @@ We have also expanded our research interests to the field of LLMs. Here are some
 | GPT3.5: Fine-Tuning Language Models from Human Preferences   | [[paper]](https://arxiv.org/abs/1909.08593)                  |
 | LLaMA: Open and Efficient Foundation Language Models         | [[paper]](http://arxiv.org/abs/2302.13971)                   |
 | Llama 2: Open Foundation and Fine-Tuned Chat Models          | [[paper]](http://arxiv.org/abs/2307.09288)                   |
+| Qwen2.5-1M Technical Report                                  | [[paper]](https://arxiv.org/abs/2501.15383)                  |
 
 
 ### Multimodal Large Language Models
 
-| Title                                                        | Link                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Efficient Multimodal Large Language Models: A Survey           | [[paper]](http://arxiv.org/abs/2405.10739)                   |
-| CLIP: Learning Transferable Visual Models From Natural Language Supervision | [[paper]](https://arxiv.org/abs/2103.00020)                  |
+| Title                                                        | Link                                        |
+| ------------------------------------------------------------ | ------------------------------------------- |
+| Efficient Multimodal Large Language Models: A Survey         | [[paper]](http://arxiv.org/abs/2405.10739)  |
+| CLIP: Learning Transferable Visual Models From Natural Language Supervision | [[paper]](https://arxiv.org/abs/2103.00020) |
+| Seed1.5-VL Technical Report                                  | [[paper]](http://arxiv.org/abs/2505.07062)  |
+| MiMo: Unlocking the Reasoning Potential of Language Model -- From Pretraining to Posttraining | [[paper]](http://arxiv.org/abs/2505.07608)  |
 
 ## Parallelism Training System
 
@@ -45,6 +48,7 @@ We have also expanded our research interests to the field of LLMs. Here are some
 | Accelerating Distributed MoE Training and Inference with Lina | [[paper]](https://www.usenix.org/conference/atc23/presentation/li-jiamin) |
 | Galvatron: Efficient Transformer Training over Multiple GPUs Using Automatic Parallelism | [[paper]](http://arxiv.org/abs/2211.13878)                   |
 | Alpa: Automating Inter- and {Intra-Operator} Parallelism for Distributed Deep Learning | [[paper]](https://www.usenix.org/conference/osdi22/presentation/zheng-lianmin) |
+| Pangu Ultra MoE: How to Train Your Big MoE on Ascend NPUs    | [[paper]](http://arxiv.org/abs/2505.04519)                   |
 
 ## LLM Serving System
 
@@ -80,6 +84,8 @@ I will conduct actual categorization in the future.
 | Is the GPU Half-Empty or Half-Full? Practical Scheduling Techniques for LLMs | [[paper]](http://arxiv.org/abs/2410.17840)                   |
 | NEO: Saving GPU Memory Crisis with CPU Offloading for Online LLM Inference | [[paper]](http://arxiv.org/abs/2411.01142)                   |
 | EcoServe: Maximizing Multi-Resource Utilization with SLO Guarantees in LLM Serving | [[paper]](http://arxiv.org/abs/2411.06364)                   |
+| Injecting Adrenaline into LLM Serving: Boosting Resource Utilization and Throughput via Attention Disaggregation | [[paper]](http://arxiv.org/abs/2503.20552)                   |
+| semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage | [[paper]](http://arxiv.org/abs/2504.19867)                   |
 
 ### Serving LLMs with Multiple LoRAs
 
@@ -120,3 +126,14 @@ I will conduct actual categorization in the future.
 ## Mixture-of-experts (MoE) Related Optimization
 
 Please refer to this [link](./moe_related.md) for MoE inference optimization.
+
+## RL for LLMs, System Optimization
+
+Reinforcement Learning from Human Feedback (RLHF) & Reinforcement Learning with Verifiable Rewards (RLVR)
+
+| Title                                                        | Link                                        |
+| ------------------------------------------------------------ | ------------------------------------------- |
+| OpenRLHF: An Easy-to-use, Scalable and High-performance RLHF Framework | [[paper]](https://arxiv.org/abs/2405.11143) |
+| HybridFlow: A Flexible and Efficient RLHF Framework          | [[paper]](https://arxiv.org/abs/2409.19256) |
+| StreamRL: Scalable, Heterogeneous, and Elastic RL for LLMs with Disaggregated Stream Generation | [[paper]](http://arxiv.org/abs/2504.15930)  |
+
