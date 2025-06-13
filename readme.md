@@ -116,12 +116,15 @@ I will conduct actual categorization in the future.
 | Title                                                        | Link                                        |
 | ------------------------------------------------------------ | ------------------------------------------- |
 | LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale | [[paper]](http://arxiv.org/abs/2208.07339)  |
+| SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models | [[paper]](http://arxiv.org/abs/2211.10438)  |
 | GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers | [[paper]](https://arxiv.org/abs/2210.17323) |
 | AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration | [[paper]](http://arxiv.org/abs/2306.00978)  |
 | QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving | [[paper]](http://arxiv.org/abs/2405.04532)  |
 | Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time | [[paper]](https://arxiv.org/abs/2310.17157) |
 | Atom: Low-bit Quantization for Efficient and Accurate LLM Serving | [[paper]](http://arxiv.org/abs/2310.19102)  |
 | QLoRA: Efficient Finetuning of Quantized LLMs                | [[paper]](http://arxiv.org/abs/2305.14314)  |
+| QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models | [[paper]](http://arxiv.org/abs/2309.14717)  |
+
 
 ## Mixture-of-experts (MoE) Related Optimization
 
